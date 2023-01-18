@@ -124,16 +124,3 @@ newBook.addEventListener("click", function () {
     }
   });
 });
-
-createBookCard({
-  title: "s",
-  author: "d",
-  pages: "5",
-  read: true,
-});
-createBookCard({
-  title: "s",
-  author: "d",
-  pages: "5",
-  read: false,
-});
